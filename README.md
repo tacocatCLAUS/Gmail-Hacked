@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://scrawnyextralargelearning.altaccount87.repl.co/urmom.png">
 </p>
-<h3><p align="center">The best Google Phishing Site</p></h3>
+<h3><p align="center">Beargle OS</p></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue">
