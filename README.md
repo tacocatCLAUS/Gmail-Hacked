@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20With-Html-orange">
   <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
