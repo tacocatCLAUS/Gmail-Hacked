@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scrawnyextralargelearning.altaccount87.repl.co/urmom.png">
+  <img src="https://user-images.githubusercontent.com/116687416/227739676-6246efeb-3ef4-4788-a829-bdf6c3c2637b.png">
 </p>
 <h3><p align="center">Beargle OS</p></h3>
 
