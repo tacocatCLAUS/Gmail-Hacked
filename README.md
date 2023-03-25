@@ -4,9 +4,9 @@
 <h3><p align="center">The best Gmail Phishing Site</p></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Python-blue">
-  <img src="https://img.shields.io/badge/Made%20With-Html-orange">
-  <img src="https://img.shields.io/badge/Made%20With-Nix-purple">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=">
+  <img src="https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=">
+  <img src="https://img.shields.io/badge/Made%20with-Nix-purple?style=for-the-badge&logo=">
 </p>
 
 <p align="center">
