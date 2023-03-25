@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/116687416/227739676-6246efeb-3ef4-4788-a829-bdf6c3c2637b.png">
 </p>
-<h3><p align="center">Beargle OS</p></h3>
+<h3><p align="center">The best Gmail Phishing Site</p></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue">
