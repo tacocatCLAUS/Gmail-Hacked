@@ -42,7 +42,20 @@ class RequestHandler(BaseHTTPRequestHandler):
 
 def run():
     port = 8000
-    print(f'Server started at http://localhost:{port}')
+    print(f'  _____                 _ _ 
+ / ____|               (_) |
+| |  __ _ __ ___   __ _ _| |
+| | |_ | '_ ` _ \ / _` | | |
+| |__| | | | | | | (_| | | |
+ \_____|_| |_| |_|\__,_|_|_|          _    _            _    
+| |  | |          | |   
+| |__| | __ _  ___| | __
+|  __  |/ _` |/ __| |/ /
+| |  | | (_| | (__|   < 
+|_|  |_|\__,_|\___|_|\_\
+                        
+                        
+  Started At url https://gmail.(your replit name).repl.co/                          ')
     server_address = ('', port)
     httpd = HTTPServer(server_address, RequestHandler)
     httpd.serve_forever()
