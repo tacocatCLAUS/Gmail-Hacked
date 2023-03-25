@@ -20,7 +20,7 @@
 <h3><p align="center">About</p></h3>
 
 This repository contains a fake Gmail login page that can create phishing attacks to steal sensitive information from victims.
-It then saves the entered text from the site and saves it to a file. For more information on how to use it visit the 
+It then saves the entered text from the site and saves it to a file. For more information on how to use it visit the [Wiki](https://github.com/tacocatCLAUS/Gmail-Hacked/wiki)
 
 <h3><p align="center">Disclaimer</p></h3>
 
