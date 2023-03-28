@@ -36,4 +36,4 @@ To use the fake Gmail login page, simply download the code and host it on a web 
 
 Again, we want to stress that using this code for malicious purposes is not only illegal but also unethical. Please use this repository for educational purposes only, and always respect the privacy and security of others.
 
-<b>This Repo Goes Against Policy</b>. This repository goes against both Replit's and Glitch's terms of service fork at your own risk.
+<b>This Repo Goes Against Policy</b>. This repository goes against both Replit's and Glitch's terms of service so fork at your own risk.
