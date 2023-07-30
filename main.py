@@ -35,7 +35,7 @@ class RequestHandler(BaseHTTPRequestHandler):
             
             # redirect to recovery identifier page
             self.send_response(302)
-            self.send_header('Location', 'https://CostlyMicroParentheses.beargleos.repl.co')
+            self.send_header('Location', '/wrong.html')
             self.end_headers()
         else:
             self.send_error(404)
